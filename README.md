@@ -44,10 +44,19 @@
 
 <h2 align="center">💻 Most Used Languages</h2>
 
+<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=javascript,html,css,php,scss,c,cpp,sql,typescript" 
-       alt="Top Languages (Java, Python, PyCharm)" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact" 
+       alt="Top Languages" width="60%"/>
 </p>
+
+<!-- Custom Static Language Showcase -->
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="50" height="50" title="PyCharm"/>
+</p>
+
 
 
 <p align="center">
