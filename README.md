@@ -40,13 +40,24 @@
 
 ---
 
-<!-- Custom "Most Used Languages" -->
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+---
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=php,css,scss,html,hack,jupyter%20notebook" alt="Top Languages" width="60%"/>
 </p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="45" height="45" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
+</p>
+
+---
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&locale=en&layout=compact&hide=css,scss,php,html,hack,jupyter%20notebook&theme=tokyonight)
 
