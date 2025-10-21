@@ -45,8 +45,10 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=java,Python,html,Pycharm,jupyter%20notebook" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=javascript,html,css,php,scss,c,cpp,sql,typescript" 
+       alt="Top Languages (Java, Python, PyCharm)" width="60%"/>
 </p>
+
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="45" height="45" title="Java"/>
