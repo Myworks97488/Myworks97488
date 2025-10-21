@@ -1,7 +1,8 @@
 ![logo](https://github.com/Myworks97488/Myworks97488/blob/main/ggggg.png)
 <h1 align="center">Hi 👋, I'm Archisman Gupta</h1>
 <h3 align="center">I am Frontend Developer from India| Love to learn and do new things</h3>
-<img align="right" alt="coding"width="400"src="src="https://github.com/Myworks97488/Myworks97488/blob/main/code-coding.gif">
+<img align="right" alt="coding"width="400"src="<img align="right" alt="coding" width="400" src="https://github.com/Myworks97488/Myworks97488/blob/main/code-coding.gif?raw=true"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myworks97488&label=Profile%20views&color=0e75b6&style=flat" alt="myworks97488" /> </p>
 
