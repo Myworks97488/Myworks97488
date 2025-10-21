@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Archisman Gupta</h1>
 <h3 align="center">I am Frontend Developer from India | Love to learn and do new things</h3>
 
-<!-- Optimized Coding GIF (balanced for all screen sizes) -->
-<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/b0634ae4-6a7d-43eb-b999-d168008c81d3" />
+<!-- Updated Coding GIF (optimized for all devices) -->
+<img align="right" alt="coding" width="320" src="https://github.com/user-attachments/assets/1d225abb-3c2b-49b9-b48d-8ea38aff8c2d" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=myworks97488&label=Profile%20views&color=0e75b6&style=flat" alt="myworks97488" />
 </p>
