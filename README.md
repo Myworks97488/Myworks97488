@@ -54,22 +54,30 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="180"/>
+<h2 align="center">🚀 My GitHub Universe</h2>
+
+<div align="center">
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myworks97488&theme=radical" alt="Profile Details" width="90%"/>
+
+<!-- Stats and Streaks side-by-side -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=myworks97488&theme=radical&hide_border=true&background=0D1117&currStreakLabel=FF6EC7&ring=FF6EC7&fire=FF6EC7" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myworks97488&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
-</p>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myworks97488&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=FF6EC7&point=FFFFFF" alt="GitHub Activity Graph" width="90%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myworks97488&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Contribution Graph"/>
-</p>
+<!-- Trophy Section -->
+<img src="https://github-profile-trophy.vercel.app/?username=myworks97488&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="90%"/>
 
-
+</div>
 
 ---
+
 
 ✨ *"Code, Learn, Repeat — Building something new every day!"*
