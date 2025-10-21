@@ -36,9 +36,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- ✅ Working Java icon -->
+  <!-- ✅ Java PNG Icon (Guaranteed to show) -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -56,6 +56,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3066/3066375.png" alt="cybersecurity" width="45" height="45"/>
   </a>
 </p>
+
 
 
 
