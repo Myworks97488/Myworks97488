@@ -54,12 +54,13 @@
 </p>
 
 <!-- Custom "Most Used" Visual -->
-<h3 align="left">Most Used:</h3>
+<h3 align="left">Most Used Languages:</h3>
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
+
 
 <!-- Stats Section -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&locale=en&layout=compact&hide=css" alt="myworks97488" /></p>
