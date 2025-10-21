@@ -27,16 +27,12 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <!-- ✅ Java PNG Icon (Guaranteed to show) -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/>
   </a>
@@ -57,10 +53,16 @@
   </a>
 </p>
 
+<!-- Custom "Most Used" Visual -->
+<h3 align="left">Most Used:</h3>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&locale=en&layout=compact" alt="myworks97488" /></p>
+<!-- Stats Section -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&locale=en&layout=compact&hide=css" alt="myworks97488" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myworks97488&show_icons=true&locale=en" alt="myworks97488" /></p>
 
