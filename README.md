@@ -3,7 +3,7 @@
 <h3 align="center">I am Frontend Developer from India | Love to learn and do new things</h3>
 
 <!-- Updated Coding GIF (resized) -->
-<img align="right" alt="coding" width="250" src="https://github.com/user-attachments/assets/b0634ae4-6a7d-43eb-b999-d168008c81d3" />
+<img align="right" alt="coding" width="150" src="https://github.com/user-attachments/assets/b0634ae4-6a7d-43eb-b999-d168008c81d3" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=myworks97488&label=Profile%20views&color=0e75b6&style=flat" alt="myworks97488" />
