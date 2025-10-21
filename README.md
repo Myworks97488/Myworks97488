@@ -104,7 +104,7 @@
 
 </div>
 
-![snake gif](https://github.com/Myworks97488/Myworks97488/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Myworks97488/Myworks97488/output/github-snake-dark.svg)
 
 
 
