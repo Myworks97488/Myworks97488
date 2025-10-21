@@ -4,7 +4,7 @@
 <img align="right" alt="coding"width="400"src="<img align="right" alt="coding" width="400" src="https://github.com/Myworks97488/Myworks97488/blob/main/code-coding.gif?raw=true"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myworks97488&label=Profile%20views&color=0e75b6&style=flat" alt="myworks97488" /> </p>
+<p align="left"><img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Myworks97488/Myworks97488/main/code-coding.gif" />
 
 - 📫 How to reach me **workshome97@gmail.com**
 
