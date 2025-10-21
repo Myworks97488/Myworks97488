@@ -45,7 +45,7 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=php,css,scss,html,hack,jupyter%20notebook" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myworks97488&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9&layout=compact&hide=java,Python,html,Pycharm,jupyter%20notebook" alt="Top Languages" width="60%"/>
 </p>
 
 <p align="center">
