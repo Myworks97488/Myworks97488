@@ -6,7 +6,7 @@
 <!-- 🌟 Profile Logo and Intro -->
 ![logo](https://github.com/Myworks97488/Myworks97488/blob/main/ggggg.png)
 <h1 align="center">Hi 👋, I'm Archisman Gupta</h1>
-<h3 align="center">I am coder from India | Love to learn and do new things</h3>
+<h3 align="center">I am coder from India | Love to learn and do new things and achieve goals </h3>
 
 <img align="right" src="https://github.com/user-attachments/assets/7ffc0742-0128-4291-b7b1-cb5fb27cc8da" alt="coding" width="200" />
 
