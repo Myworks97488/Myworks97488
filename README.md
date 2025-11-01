@@ -18,7 +18,7 @@
 </p>
 
 - 📫 Reach me at **workshome97@gmail.com**  
-- ⚡ Fun fact: **I’m Funny 😁**
+- ⚡ Fun fact: **I am Funny 😁**
 
 ---
 
